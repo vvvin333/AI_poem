@@ -1,2 +1,2 @@
 # AI_poem
-exercise create a poem like sheakespeare
+This exercise create a poem like Shakespeare
